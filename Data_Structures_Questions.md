@@ -3,16 +3,23 @@ Answer the following questions for each of the data structures you implemented a
 ## Stack
 
 1. What is the runtime complexity of `push`?
+    constant
 
 2. What is the runtime complexity of `pop`?
+    constant
 
 3. What is the runtime complexity of `len`?
+
+    constant
 
 ## Queue
 
 1. What is the runtime complexity of `enqueue`?
+    constant
 
 2. What is the runtime complexity of `dequeue`?
+
+    constant
 
 3. What is the runtime complexity of `len`?
 
